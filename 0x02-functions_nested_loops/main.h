@@ -5,7 +5,7 @@
 * Return: On success 1
 * On error; -1
 */
-int _putcha(char i)
+int _putchar(char i)
 {
 	return (write(1, &c,1));
 }
