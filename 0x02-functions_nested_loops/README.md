@@ -1,1 +1,1 @@
-This is the c loop functions
+This readme file describes functions and nested loop in C
